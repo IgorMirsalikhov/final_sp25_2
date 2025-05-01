@@ -1,3 +1,5 @@
+#define SIZE 1000
+
 void getString(char *str);
 
 void getString(char *str) {
